@@ -1,6 +1,8 @@
 var config = {
 	"discordtoken":"",
-	'monitorchannel':''
+	'discordserverid':'',
+	'monitorchannel':'',
+	'rankcommand':''
 }
 module.exports = {config}
 
